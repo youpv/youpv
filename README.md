@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youpv
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning ReactJS, Bootstrap, JavaScript
+- 🌱 I’m currently working with Next.js, Shopify, Python
 - 💞️ I’m looking to collaborate on new innovative ideas
 - 📫 You can reach me on Twitter
 

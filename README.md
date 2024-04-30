@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @youpv
 - 👀 I’m interested in new projects
-- 🌱 I’m currently working with Next.js, Shopify, Python
+- 🌱 I’m currently working with Remix, Strapi and React Native
 - 💞️ I’m looking to collaborate on new innovative ideas
-- 📫 You can reach me on Twitter
+- 📫 You can reach me on X
 
 <!---
 youpv/youpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

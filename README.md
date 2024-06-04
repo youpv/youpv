@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youpv
 - 👀 I’m interested in new projects
-- 🌱 I’m currently working with NextJS, Strapi and ConcreteCMS
+- 🌱 I’m currently working with NextJS, Strapi and Shopify
 - 💞️ I’m looking to collaborate on new innovative ideas
 - 📫 You can reach me on X
 
